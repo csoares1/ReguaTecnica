@@ -1,0 +1,82 @@
+
+  {
+    "menu_items": [
+         {
+            "id": 1,
+            "short_name": "A1",
+            "name": "12-Junior Associate",
+            "description": "Comunicar-se claramente"
+          },
+          {
+             "id": 2,
+             "short_name": "A2",
+             "name": "12-Junior Associate",
+             "description": "Preocupação sobre qualidade"
+           },
+           {
+              "id": 3,
+              "short_name": "A3",
+              "name": "12-Junior Associate",
+              "description": "Estrutura de Dados"
+          },
+          {
+             "id": 3,
+             "short_name": "A3",
+             "name": "12-Junior Associate",
+             "description": "Estrutura de Dados"
+          },
+          {
+            "id": 4,
+            "short_name": "A4",
+            "name": "12-Junior Associate",
+            "description": "Ao menos 1 stack tecnológica (ASP.NET MVC, Web API, Sharepoint, TypeScript, etc)"
+          },
+          {
+           "id": 5,
+           "short_name": "A5",
+           "name": "12-Junior Associate",
+           "description": "Sentimento de dono das suas entregas"
+           },
+           {
+              "id": 6,
+              "short_name": "A6",
+              "name": "12-Junior Associate",
+              "description": "OOP"
+          },
+          {
+             "id": 7,
+             "short_name": "A7",
+             "name": "12-Junior Associate",
+             "description": "Query simples (diferenciar entre inner e left)"
+         },
+         {
+            "id": 8,
+            "short_name": "A8",
+            "name": "12-Junior Associate",
+            "description": "SQL ANSI"
+         },
+         {
+           "id": 9,
+           "short_name": "A9",
+           "name": "12-Junior Associate",
+           "description": "Paixão por aprender"
+         },
+         {
+          "id": 10,
+          "short_name": "A10",
+          "name": "12-Junior Associate",
+          "description": "Trabalho em equipe"
+          },
+          {
+           "id": 11,
+           "short_name": "A11",
+           "name": "12-Junior Associate",
+           "description": "Entender parte do SOLID"
+          }
+        ],
+        "category": {
+          "id": 1,
+         "short_name":"Level12",
+         "name":"Associate Software Engineer"
+        }
+  }
